@@ -1,4 +1,4 @@
-# Food-and-Nutrition---Data-Science
+# Food-and-Nutrition
 
 **Tools and Technologies:**
 
